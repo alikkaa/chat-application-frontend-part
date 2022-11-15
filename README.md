@@ -1,1 +1,7 @@
-# chat-application-frontend-part
+STACK:
+
+- ReactJS
+- Redux
+- React Router
+- Axios
+- Formik
